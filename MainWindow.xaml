@@ -31,6 +31,7 @@
             <MenuItem Header="Файл" FontSize="14">
                 <MenuItem Header="Открыть" Click="ButtonOpen_Click"></MenuItem>
                 <MenuItem Header="Сохранить" Click="ButtonSave_Click"></MenuItem>
+                <MenuItem Header="Сброс настроек" Click="ButtonRemoveOptions_Click"></MenuItem>
                 <Separator></Separator>
                 <MenuItem Header="О программе" FontSize="14" Click="ButtonInfo_Click" FontFamily="Segoe UI"/>
             </MenuItem>
